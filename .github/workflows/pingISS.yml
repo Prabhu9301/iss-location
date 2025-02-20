@@ -1,0 +1,32 @@
+name: Ping & Log ISS Data Daily
+
+on:
+    schedule:
+        - cron: "0 12 * * *"  # Runs at 12:00 UTC daily
+    workflow_dispatch: # Allows manual triggering
+
+jobs:
+    collect-iss-data:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+
+        steps:
+          - name: Checkout repository
+            uses: actions/checkout@v4
+
+          - name: Install uv
+            uses: astral-sh/setup-uv@5
+
+          - name: Fetch ISS Data
+            run: | # python
+                uv run --with httpx,pytz python pingISS.py
+            
+          - name: Commit and Push Changes
+            run: | # bash
+              git config --local user.name "github-actions[bot]"
+              git config --local user.email "github-actions[bot]@users.noreply.github.com"
+              git add iss_info.jsonl
+              git commit -m "Update ISS Data" || exit 0
+              git push
+            continue-on-error: true
