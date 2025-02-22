@@ -2,3 +2,4 @@
 {"latitude": -18.34875, "longitude": 23.82188, "altitude": 422.79, "velocity": 27564.06, "visibility": "daylight", "timezone_id": "Africa/Gaborone", "timestamp": "2025-02-20 14:21:59", "utc_offset": "+02:00", "country_code": "BW"}
 {"latitude": -48.35939, "longitude": 67.8047, "altitude": 432.1, "velocity": 27547.99, "visibility": "daylight", "timezone_id": "Etc/GMT-5", "timestamp": "2025-02-20 17:34:29", "utc_offset": "+05:00", "country_code": null}
 {"latitude": 49.3509, "longitude": -113.82746, "altitude": 421.12, "velocity": 27593.11, "visibility": "visible", "timezone_id": "America/Edmonton", "timestamp": "2025-02-21 05:33:56", "utc_offset": "-07:00", "country_code": "CA"}
+{"latitude": -39.68313, "longitude": 35.5859, "altitude": 430.0, "velocity": 27555.66, "visibility": "daylight", "timezone_id": "Etc/GMT-2", "timestamp": "2025-02-22 14:29:55", "utc_offset": "+02:00", "country_code": null}
