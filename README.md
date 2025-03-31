@@ -1,6 +1,6 @@
 # ISS Data Collection
 
-Automated collection of real-time data from the International Space Station (ISS) using GitHub Actions. The system fetches ISS location data daily at **12:00 UTC** and stores it in a structured **JSONL (JSON Lines) format**. 
+Automated collection of real-time data from the International Space Station (ISS) using GitHub Actions. The system fetches ISS location data daily at **00:00 UTC** and stores it in a structured **JSONL (JSON Lines) format**. 
 
 **Data Source**: [Where The ISS At?](https://wheretheiss.at)  
 **Automation**: Powered by [GitHub Actions](https://github.com/features/actions)  
@@ -8,7 +8,7 @@ Automated collection of real-time data from the International Space Station (ISS
 ## Workflow  
 
 1. **Scheduled Data Collection**:  
-   - Runs daily at **12:00 UTC** using GitHub Actions.  
+   - Runs daily at **00:00 UTC** using GitHub Actions.  
    - Fetches real-time ISS data from the [Where The ISS At? API](https://api.wheretheiss.at/v1/satellites/25544).  
 
 2. **Data Storage**:  

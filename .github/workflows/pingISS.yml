@@ -2,7 +2,7 @@ name: Ping & Log ISS Data Daily
 
 on:
     schedule:
-        - cron: "0 12 * * *"  # Runs at 12:00 UTC daily
+        - cron: "0 0 * * *"  # Runs at 00:00 UTC daily
     workflow_dispatch: # Allows manual triggering
 
 jobs:
