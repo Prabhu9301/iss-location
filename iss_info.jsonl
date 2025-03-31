@@ -36,3 +36,4 @@
 {"latitude": -5.05131, "longitude": -32.48166, "altitude": 416.58, "velocity": 27585.63, "visibility": "daylight", "timezone_id": "Etc/GMT+2", "timestamp": "2025-03-28 10:35:22", "utc_offset": "-02:00", "country_code": null}
 {"latitude": 8.19841, "longitude": 139.63736, "altitude": 416.69, "velocity": 27585.37, "visibility": "eclipsed", "timezone_id": "Etc/GMT-9", "timestamp": "2025-03-29 21:33:04", "utc_offset": "+09:00", "country_code": null}
 {"latitude": -4.79955, "longitude": -43.57581, "altitude": 416.41, "velocity": 27585.69, "visibility": "daylight", "timezone_id": "America/Fortaleza", "timestamp": "2025-03-30 09:33:02", "utc_offset": "-03:00", "country_code": "BR"}
+{"latitude": -12.22548, "longitude": 143.00781, "altitude": 420.33, "velocity": 27571.39, "visibility": "eclipsed", "timezone_id": "Australia/Brisbane", "timestamp": "2025-03-31 22:37:18", "utc_offset": "+10:00", "country_code": "AU"}
