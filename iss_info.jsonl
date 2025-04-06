@@ -3,3 +3,4 @@
 {"latitude": -48.98975, "longitude": -5.69835, "altitude": 434.51, "velocity": 27538.22, "visibility": "eclipsed", "timezone_id": "Etc/GMT", "timestamp": "2025-04-03 01:12:16", "utc_offset": "+00:00", "country_code": null}
 {"latitude": 48.18547, "longitude": 165.17318, "altitude": 422.79, "velocity": 27592.07, "visibility": "daylight", "timezone_id": "Etc/GMT-11", "timestamp": "2025-04-04 12:12:11", "utc_offset": "+11:00", "country_code": null}
 {"latitude": -46.84731, "longitude": -25.02901, "altitude": 436.72, "velocity": 27534.45, "visibility": "eclipsed", "timezone_id": "Etc/GMT+2", "timestamp": "2025-04-04 23:11:06", "utc_offset": "-02:00", "country_code": null}
+{"latitude": 51.7845, "longitude": -178.13063, "altitude": 424.14, "velocity": 27589.34, "visibility": "daylight", "timezone_id": "America/Adak", "timestamp": "2025-04-05 16:16:41", "utc_offset": "-09:00", "country_code": "US"}
