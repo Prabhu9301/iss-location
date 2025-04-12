@@ -9,3 +9,4 @@
 {"latitude": -50.46908, "longitude": -33.75084, "altitude": 437.86, "velocity": 27532.14, "visibility": "eclipsed", "timezone_id": "Etc/GMT+2", "timestamp": "2025-04-08 23:12:40", "utc_offset": "-02:00", "country_code": null}
 {"latitude": 50.76805, "longitude": 142.386, "altitude": 422.36, "velocity": 27595.07, "visibility": "daylight", "timezone_id": "Asia/Sakhalin", "timestamp": "2025-04-10 12:12:37", "utc_offset": "+11:00", "country_code": "RU"}
 {"latitude": -51.41716, "longitude": -37.66601, "altitude": 438.07, "velocity": 27531.55, "visibility": "eclipsed", "timezone_id": "Etc/GMT+3", "timestamp": "2025-04-10 22:13:12", "utc_offset": "-03:00", "country_code": null}
+{"latitude": 50.68838, "longitude": 130.18897, "altitude": 421.44, "velocity": 27598.26, "visibility": "daylight", "timezone_id": "Asia/Yakutsk", "timestamp": "2025-04-12 10:11:39", "utc_offset": "+09:00", "country_code": "RU"}
