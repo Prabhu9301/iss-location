@@ -24,3 +24,4 @@
 {"latitude": -39.36779, "longitude": -62.09055, "altitude": 431.74, "velocity": 27544.27, "visibility": "eclipsed", "timezone_id": "America/Argentina/Buenos_Aires", "timestamp": "2025-04-24 22:15:02", "utc_offset": "-03:00", "country_code": "AR"}
 {"latitude": 45.98722, "longitude": 98.37993, "altitude": 422.01, "velocity": 27593.0, "visibility": "daylight", "timezone_id": "Asia/Ulaanbaatar", "timestamp": "2025-04-26 09:12:12", "utc_offset": "+08:00", "country_code": "MN"}
 {"latitude": -29.76985, "longitude": -61.47843, "altitude": 428.39, "velocity": 27554.2, "visibility": "eclipsed", "timezone_id": "America/Argentina/Cordoba", "timestamp": "2025-04-26 22:18:56", "utc_offset": "-03:00", "country_code": "AR"}
+{"latitude": 34.47848, "longitude": 107.16986, "altitude": 419.95, "velocity": 27591.83, "visibility": "daylight", "timezone_id": "Asia/Shanghai", "timestamp": "2025-04-28 09:16:47", "utc_offset": "+08:00", "country_code": "CN"}
