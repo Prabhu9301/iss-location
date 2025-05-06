@@ -2,3 +2,4 @@
 {"latitude": -37.91438, "longitude": -106.82895, "altitude": 431.94, "velocity": 27546.18, "visibility": "daylight", "timezone_id": "Etc/GMT+7", "timestamp": "2025-05-02 18:13:45", "utc_offset": "-07:00", "country_code": null}
 {"latitude": 12.92141, "longitude": 92.45393, "altitude": 418.38, "velocity": 27585.52, "visibility": "daylight", "timezone_id": "Asia/Kolkata", "timestamp": "2025-05-04 06:52:22", "utc_offset": "+05:30", "country_code": "IN"}
 {"latitude": -23.26496, "longitude": -101.89488, "altitude": 425.69, "velocity": 27560.81, "visibility": "daylight", "timezone_id": "Etc/GMT+7", "timestamp": "2025-05-04 18:18:35", "utc_offset": "-07:00", "country_code": null}
+{"latitude": 29.66266, "longitude": 66.00143, "altitude": 419.02, "velocity": 27591.9, "visibility": "daylight", "timezone_id": "Asia/Karachi", "timestamp": "2025-05-06 06:15:53", "utc_offset": "+05:00", "country_code": "PK"}
