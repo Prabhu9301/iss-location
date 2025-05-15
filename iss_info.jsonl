@@ -11,3 +11,4 @@
 {"latitude": 13.05036, "longitude": 45.67815, "altitude": 417.49, "velocity": 27588.36, "visibility": "daylight", "timezone_id": "Etc/GMT-3", "timestamp": "2025-05-12 04:19:09", "utc_offset": "+03:00", "country_code": null}
 {"latitude": -16.42816, "longitude": -142.77417, "altitude": 423.67, "velocity": 27564.51, "visibility": "daylight", "timezone_id": "Etc/GMT+10", "timestamp": "2025-05-12 15:17:36", "utc_offset": "-10:00", "country_code": null}
 {"latitude": 18.51442, "longitude": 29.74616, "altitude": 417.13, "velocity": 27591.9, "visibility": "eclipsed", "timezone_id": "Africa/Khartoum", "timestamp": "2025-05-14 03:16:20", "utc_offset": "+02:00", "country_code": "SD"}
+{"latitude": -22.80222, "longitude": -159.74444, "altitude": 425.76, "velocity": 27559.15, "visibility": "daylight", "timezone_id": "Etc/GMT+11", "timestamp": "2025-05-14 14:14:25", "utc_offset": "-11:00", "country_code": null}
