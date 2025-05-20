@@ -16,3 +16,4 @@
 {"latitude": -16.32308, "longitude": -165.90908, "altitude": 423.41, "velocity": 27565.14, "visibility": "daylight", "timezone_id": "Etc/GMT+11", "timestamp": "2025-05-16 14:15:34", "utc_offset": "-11:00", "country_code": null}
 {"latitude": -5.22603, "longitude": 23.96354, "altitude": 418.85, "velocity": 27580.25, "visibility": "eclipsed", "timezone_id": "Africa/Lubumbashi", "timestamp": "2025-05-18 03:22:03", "utc_offset": "+02:00", "country_code": "CD"}
 {"latitude": 1.96706, "longitude": -164.15074, "altitude": 419.21, "velocity": 27578.28, "visibility": "daylight", "timezone_id": "Etc/GMT+11", "timestamp": "2025-05-18 14:20:28", "utc_offset": "-11:00", "country_code": null}
+{"latitude": 2.72327, "longitude": 6.77183, "altitude": 417.26, "velocity": 27586.17, "visibility": "eclipsed", "timezone_id": "Etc/GMT", "timestamp": "2025-05-20 01:18:17", "utc_offset": "+00:00", "country_code": null}
