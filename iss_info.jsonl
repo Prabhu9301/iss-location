@@ -23,3 +23,4 @@
 {"latitude": 7.64404, "longitude": -19.85328, "altitude": 416.26, "velocity": 27590.51, "visibility": "eclipsed", "timezone_id": "Etc/GMT+1", "timestamp": "2025-05-24 00:14:09", "utc_offset": "-01:00", "country_code": null}
 {"latitude": 24.45167, "longitude": 178.75093, "altitude": 417.74, "velocity": 27589.21, "visibility": "daylight", "timezone_id": "Etc/GMT-12", "timestamp": "2025-05-25 13:23:59", "utc_offset": "+12:00", "country_code": null}
 {"latitude": -12.17665, "longitude": -17.18032, "altitude": 419.58, "velocity": 27577.99, "visibility": "eclipsed", "timezone_id": "Etc/GMT+1", "timestamp": "2025-05-26 00:19:16", "utc_offset": "-01:00", "country_code": null}
+{"latitude": 5.74357, "longitude": 152.35021, "altitude": 418.77, "velocity": 27579.56, "visibility": "daylight", "timezone_id": "Etc/GMT-10", "timestamp": "2025-05-27 11:16:29", "utc_offset": "+10:00", "country_code": null}
