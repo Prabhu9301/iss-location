@@ -26,3 +26,4 @@
 {"latitude": 5.74357, "longitude": 152.35021, "altitude": 418.77, "velocity": 27579.56, "visibility": "daylight", "timezone_id": "Etc/GMT-10", "timestamp": "2025-05-27 11:16:29", "utc_offset": "+10:00", "country_code": null}
 {"latitude": -13.17777, "longitude": -27.93297, "altitude": 419.64, "velocity": 27577.85, "visibility": "eclipsed", "timezone_id": "Etc/GMT+2", "timestamp": "2025-05-27 23:18:08", "utc_offset": "-02:00", "country_code": null}
 {"latitude": 14.34695, "longitude": 147.20824, "altitude": 418.38, "velocity": 27583.31, "visibility": "daylight", "timezone_id": "Etc/GMT-10", "timestamp": "2025-05-29 11:17:49", "utc_offset": "+10:00", "country_code": null}
+{"latitude": -10.78071, "longitude": -41.21423, "altitude": 418.81, "velocity": 27580.14, "visibility": "eclipsed", "timezone_id": "America/Bahia", "timestamp": "2025-05-29 22:15:47", "utc_offset": "-03:00", "country_code": "BR"}
