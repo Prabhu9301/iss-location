@@ -4,3 +4,4 @@
 {"latitude": 32.22096, "longitude": 129.4274, "altitude": 419.63, "velocity": 27587.65, "visibility": "daylight", "timezone_id": "Asia/Tokyo", "timestamp": "2025-06-04 10:18:53", "utc_offset": "+09:00", "country_code": "JP"}
 {"latitude": -32.67676, "longitude": -55.72354, "altitude": 425.63, "velocity": 27563.44, "visibility": "eclipsed", "timezone_id": "America/Montevideo", "timestamp": "2025-06-04 22:18:03", "utc_offset": "-03:00", "country_code": "UY"}
 {"latitude": 34.66592, "longitude": 121.03459, "altitude": 420.01, "velocity": 27587.72, "visibility": "daylight", "timezone_id": "Etc/GMT-8", "timestamp": "2025-06-06 09:17:54", "utc_offset": "+08:00", "country_code": null}
+{"latitude": -35.98488, "longitude": -62.89829, "altitude": 426.89, "velocity": 27560.75, "visibility": "eclipsed", "timezone_id": "America/Argentina/Buenos_Aires", "timestamp": "2025-06-06 22:17:24", "utc_offset": "-03:00", "country_code": "AR"}
