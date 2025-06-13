@@ -10,3 +10,4 @@
 {"latitude": 47.2044, "longitude": 122.06042, "altitude": 422.41, "velocity": 27587.78, "visibility": "daylight", "timezone_id": "Asia/Shanghai", "timestamp": "2025-06-10 09:19:43", "utc_offset": "+08:00", "country_code": "CN"}
 {"latitude": -48.75911, "longitude": -58.23897, "altitude": 432.34, "velocity": 27548.67, "visibility": "eclipsed", "timezone_id": "Etc/GMT+4", "timestamp": "2025-06-10 21:19:42", "utc_offset": "-04:00", "country_code": null}
 {"latitude": 48.35924, "longitude": 114.5818, "altitude": 422.64, "velocity": 27587.63, "visibility": "daylight", "timezone_id": "Asia/Choibalsan", "timestamp": "2025-06-12 09:18:22", "utc_offset": "+08:00", "country_code": "MN"}
+{"latitude": -50.87541, "longitude": -58.55889, "altitude": 433.02, "velocity": 27547.39, "visibility": "eclipsed", "timezone_id": "Etc/GMT+4", "timestamp": "2025-06-12 21:19:33", "utc_offset": "-04:00", "country_code": null}
