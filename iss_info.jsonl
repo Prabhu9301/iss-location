@@ -15,3 +15,4 @@
 {"latitude": -43.49776, "longitude": -16.08774, "altitude": 429.92, "velocity": 27553.51, "visibility": "eclipsed", "timezone_id": "Etc/GMT+1", "timestamp": "2025-06-15 00:27:09", "utc_offset": "-01:00", "country_code": null}
 {"latitude": 50.16885, "longitude": 136.99647, "altitude": 422.62, "velocity": 27588.58, "visibility": "daylight", "timezone_id": "Asia/Vladivostok", "timestamp": "2025-06-16 11:21:42", "utc_offset": "+10:00", "country_code": "RU"}
 {"latitude": -50.86611, "longitude": -53.0994, "altitude": 432.48, "velocity": 27549.04, "visibility": "eclipsed", "timezone_id": "Etc/GMT+4", "timestamp": "2025-06-16 21:19:45", "utc_offset": "-04:00", "country_code": null}
+{"latitude": 50.57095, "longitude": 123.30953, "altitude": 422.7, "velocity": 27588.34, "visibility": "daylight", "timezone_id": "Asia/Shanghai", "timestamp": "2025-06-18 09:18:55", "utc_offset": "+08:00", "country_code": "CN"}
