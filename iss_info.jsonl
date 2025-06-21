@@ -18,3 +18,4 @@
 {"latitude": 50.57095, "longitude": 123.30953, "altitude": 422.7, "velocity": 27588.34, "visibility": "daylight", "timezone_id": "Asia/Shanghai", "timestamp": "2025-06-18 09:18:55", "utc_offset": "+08:00", "country_code": "CN"}
 {"latitude": -48.63755, "longitude": -52.94928, "altitude": 431.81, "velocity": 27549.69, "visibility": "eclipsed", "timezone_id": "Etc/GMT+4", "timestamp": "2025-06-18 21:19:26", "utc_offset": "-04:00", "country_code": null}
 {"latitude": 47.62272, "longitude": 125.01286, "altitude": 421.84, "velocity": 27588.92, "visibility": "daylight", "timezone_id": "Asia/Shanghai", "timestamp": "2025-06-20 09:18:51", "utc_offset": "+08:00", "country_code": "CN"}
+{"latitude": -47.80744, "longitude": -61.31947, "altitude": 431.17, "velocity": 27552.37, "visibility": "eclipsed", "timezone_id": "Etc/GMT+4", "timestamp": "2025-06-20 21:17:51", "utc_offset": "-04:00", "country_code": null}
