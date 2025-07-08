@@ -4,3 +4,4 @@
 {"latitude": -6.86651, "longitude": -89.4531, "altitude": 416.14, "velocity": 27586.75, "visibility": "daylight", "timezone_id": "Etc/GMT+6", "timestamp": "2025-07-04 19:16:55", "utc_offset": "-06:00", "country_code": null}
 {"latitude": -27.00207, "longitude": 111.16202, "altitude": 424.33, "velocity": 27562.53, "visibility": "daylight", "timezone_id": "Etc/GMT-7", "timestamp": "2025-07-06 08:26:54", "utc_offset": "+07:00", "country_code": null}
 {"latitude": 23.69249, "longitude": -77.60091, "altitude": 415.25, "velocity": 27597.18, "visibility": "daylight", "timezone_id": "America/Nassau", "timestamp": "2025-07-06 21:24:26", "utc_offset": "-04:00", "country_code": "BS"}
+{"latitude": -16.35263, "longitude": 90.59458, "altitude": 421.18, "velocity": 27569.15, "visibility": "daylight", "timezone_id": "Etc/GMT-6", "timestamp": "2025-07-08 07:20:33", "utc_offset": "+06:00", "country_code": null}
