@@ -12,3 +12,4 @@
 {"latitude": 44.50384, "longitude": -7.69715, "altitude": 420.11, "velocity": 27592.43, "visibility": "eclipsed", "timezone_id": "Etc/GMT+1", "timestamp": "2025-07-13 00:38:22", "utc_offset": "-01:00", "country_code": null}
 {"latitude": -48.9754, "longitude": 105.04069, "altitude": 432.62, "velocity": 27545.24, "visibility": "daylight", "timezone_id": "Etc/GMT-7", "timestamp": "2025-07-14 08:25:48", "utc_offset": "+07:00", "country_code": null}
 {"latitude": 50.98106, "longitude": -69.55293, "altitude": 420.32, "velocity": 27596.63, "visibility": "daylight", "timezone_id": "America/Toronto", "timestamp": "2025-07-14 21:26:19", "utc_offset": "-04:00", "country_code": "CA"}
+{"latitude": -49.76601, "longitude": 97.41501, "altitude": 433.14, "velocity": 27543.55, "visibility": "daylight", "timezone_id": "Etc/GMT-6", "timestamp": "2025-07-16 07:23:32", "utc_offset": "+06:00", "country_code": null}
