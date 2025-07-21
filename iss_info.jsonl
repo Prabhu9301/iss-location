@@ -17,3 +17,4 @@
 {"latitude": -51.77515, "longitude": 104.98032, "altitude": 433.78, "velocity": 27542.41, "visibility": "daylight", "timezone_id": "Etc/GMT-7", "timestamp": "2025-07-18 08:23:47", "utc_offset": "+07:00", "country_code": null}
 {"latitude": 50.55996, "longitude": -95.20703, "altitude": 421.16, "velocity": 27596.47, "visibility": "daylight", "timezone_id": "America/Winnipeg", "timestamp": "2025-07-18 20:21:20", "utc_offset": "-05:00", "country_code": "CA"}
 {"latitude": -19.55133, "longitude": 164.76537, "altitude": 422.9, "velocity": 27566.4, "visibility": "daylight", "timezone_id": "Etc/GMT-11", "timestamp": "2025-07-20 12:39:56", "utc_offset": "+11:00", "country_code": null}
+{"latitude": 46.19009, "longitude": -57.12323, "altitude": 420.11, "velocity": 27596.97, "visibility": "daylight", "timezone_id": "Etc/GMT+4", "timestamp": "2025-07-20 21:28:16", "utc_offset": "-04:00", "country_code": null}
