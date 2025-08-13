@@ -10,3 +10,4 @@
 {"latitude": -45.73864, "longitude": -69.73086, "altitude": 430.62, "velocity": 27551.37, "visibility": "eclipsed", "timezone_id": "America/Argentina/Catamarca", "timestamp": "2025-08-09 22:39:14", "utc_offset": "-03:00", "country_code": "AR"}
 {"latitude": 17.91136, "longitude": 68.32022, "altitude": 416.62, "velocity": 27588.3, "visibility": "daylight", "timezone_id": "Etc/GMT-5", "timestamp": "2025-08-11 06:26:55", "utc_offset": "+05:00", "country_code": null}
 {"latitude": 2.34677, "longitude": -132.14211, "altitude": 414.95, "velocity": 27590.51, "visibility": "daylight", "timezone_id": "Etc/GMT+9", "timestamp": "2025-08-11 16:18:47", "utc_offset": "-09:00", "country_code": null}
+{"latitude": 6.53648, "longitude": 48.53975, "altitude": 416.26, "velocity": 27585.6, "visibility": "daylight", "timezone_id": "Africa/Mogadishu", "timestamp": "2025-08-13 04:20:21", "utc_offset": "+03:00", "country_code": "SO"}
