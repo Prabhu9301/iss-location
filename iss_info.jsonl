@@ -12,3 +12,4 @@
 {"latitude": 2.34677, "longitude": -132.14211, "altitude": 414.95, "velocity": 27590.51, "visibility": "daylight", "timezone_id": "Etc/GMT+9", "timestamp": "2025-08-11 16:18:47", "utc_offset": "-09:00", "country_code": null}
 {"latitude": 6.53648, "longitude": 48.53975, "altitude": 416.26, "velocity": 27585.6, "visibility": "daylight", "timezone_id": "Africa/Mogadishu", "timestamp": "2025-08-13 04:20:21", "utc_offset": "+03:00", "country_code": "SO"}
 {"latitude": -11.85131, "longitude": -133.144, "altitude": 417.47, "velocity": 27581.91, "visibility": "daylight", "timezone_id": "Etc/GMT+9", "timestamp": "2025-08-13 16:20:38", "utc_offset": "-09:00", "country_code": null}
+{"latitude": 17.76602, "longitude": 45.86059, "altitude": 416.2, "velocity": 27589.42, "visibility": "daylight", "timezone_id": "Asia/Riyadh", "timestamp": "2025-08-15 04:21:14", "utc_offset": "+03:00", "country_code": "SA"}
