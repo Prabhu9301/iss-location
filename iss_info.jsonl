@@ -18,3 +18,4 @@
 {"latitude": 12.90178, "longitude": 7.74193, "altitude": 417.98, "velocity": 27582.85, "visibility": "eclipsed", "timezone_id": "Africa/Lagos", "timestamp": "2025-08-21 02:14:23", "utc_offset": "+01:00", "country_code": "NG"}
 {"latitude": -18.09173, "longitude": -173.85894, "altitude": 419.7, "velocity": 27577.89, "visibility": "daylight", "timezone_id": "Etc/GMT+12", "timestamp": "2025-08-21 13:15:04", "utc_offset": "-12:00", "country_code": null}
 {"latitude": 13.88138, "longitude": -2.868, "altitude": 417.62, "velocity": 27584.34, "visibility": "eclipsed", "timezone_id": "Africa/Ouagadougou", "timestamp": "2025-08-23 01:12:38", "utc_offset": "+00:00", "country_code": "BF"}
+{"latitude": -44.1811, "longitude": -152.76883, "altitude": 428.93, "velocity": 27558.58, "visibility": "daylight", "timezone_id": "Etc/GMT+10", "timestamp": "2025-08-23 15:23:04", "utc_offset": "-10:00", "country_code": null}
