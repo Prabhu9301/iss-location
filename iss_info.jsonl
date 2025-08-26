@@ -20,3 +20,4 @@
 {"latitude": 13.88138, "longitude": -2.868, "altitude": 417.62, "velocity": 27584.34, "visibility": "eclipsed", "timezone_id": "Africa/Ouagadougou", "timestamp": "2025-08-23 01:12:38", "utc_offset": "+00:00", "country_code": "BF"}
 {"latitude": -44.1811, "longitude": -152.76883, "altitude": 428.93, "velocity": 27558.58, "visibility": "daylight", "timezone_id": "Etc/GMT+10", "timestamp": "2025-08-23 15:23:04", "utc_offset": "-10:00", "country_code": null}
 {"latitude": 35.91735, "longitude": 7.3492, "altitude": 420.65, "velocity": 27585.38, "visibility": "eclipsed", "timezone_id": "Africa/Algiers", "timestamp": "2025-08-25 02:18:20", "utc_offset": "+01:00", "country_code": "DZ"}
+{"latitude": -33.22736, "longitude": 178.24052, "altitude": 424.89, "velocity": 27565.93, "visibility": "daylight", "timezone_id": "Etc/GMT-12", "timestamp": "2025-08-26 13:16:09", "utc_offset": "+12:00", "country_code": null}
