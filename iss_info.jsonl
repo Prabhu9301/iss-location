@@ -24,3 +24,4 @@
 {"latitude": 29.74743, "longitude": -11.39341, "altitude": 418.85, "velocity": 27587.76, "visibility": "eclipsed", "timezone_id": "Etc/GMT+1", "timestamp": "2025-08-27 00:13:44", "utc_offset": "-01:00", "country_code": null}
 {"latitude": -31.31587, "longitude": 164.70184, "altitude": 424.39, "velocity": 27566.22, "visibility": "daylight", "timezone_id": "Etc/GMT-11", "timestamp": "2025-08-28 12:13:07", "utc_offset": "+11:00", "country_code": null}
 {"latitude": 34.33301, "longitude": -17.32729, "altitude": 419.39, "velocity": 27588.63, "visibility": "eclipsed", "timezone_id": "Etc/GMT+1", "timestamp": "2025-08-29 00:13:06", "utc_offset": "-01:00", "country_code": null}
+{"latitude": -28.96309, "longitude": 150.86071, "altitude": 423.75, "velocity": 27566.8, "visibility": "daylight", "timezone_id": "Australia/Sydney", "timestamp": "2025-08-30 11:09:51", "utc_offset": "+10:00", "country_code": "AU"}
