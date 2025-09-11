@@ -36,3 +36,4 @@
 {"latitude": 50.60038, "longitude": -3.27465, "altitude": 424.35, "velocity": 27582.14, "visibility": "eclipsed", "timezone_id": "Europe/London", "timestamp": "2025-09-08 02:15:22", "utc_offset": "+01:00", "country_code": "GB"}
 {"latitude": -51.58172, "longitude": 161.84648, "altitude": 431.74, "velocity": 27552.87, "visibility": "daylight", "timezone_id": "Etc/GMT-11", "timestamp": "2025-09-09 12:12:41", "utc_offset": "+11:00", "country_code": null}
 {"latitude": 51.78519, "longitude": -29.67213, "altitude": 423.97, "velocity": 27584.46, "visibility": "eclipsed", "timezone_id": "Etc/GMT+2", "timestamp": "2025-09-09 23:10:32", "utc_offset": "-02:00", "country_code": null}
+{"latitude": -50.21241, "longitude": 162.11529, "altitude": 431.1, "velocity": 27554.17, "visibility": "daylight", "timezone_id": "Etc/GMT-11", "timestamp": "2025-09-11 12:12:23", "utc_offset": "+11:00", "country_code": null}
