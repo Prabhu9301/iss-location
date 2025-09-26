@@ -51,3 +51,4 @@
 {"latitude": -18.99931, "longitude": 146.44099, "altitude": 417.78, "velocity": 27583.54, "visibility": "daylight", "timezone_id": "Australia/Brisbane", "timestamp": "2025-09-23 11:10:47", "utc_offset": "+10:00", "country_code": "AU"}
 {"latitude": 11.62451, "longitude": -33.33378, "altitude": 417.56, "velocity": 27581.07, "visibility": "eclipsed", "timezone_id": "Etc/GMT+2", "timestamp": "2025-09-23 23:11:43", "utc_offset": "-02:00", "country_code": null}
 {"latitude": -5.2615, "longitude": 145.73104, "altitude": 413.69, "velocity": 27594.76, "visibility": "daylight", "timezone_id": "Pacific/Port_Moresby", "timestamp": "2025-09-25 11:12:19", "utc_offset": "+10:00", "country_code": "PG"}
+{"latitude": 1.2378, "longitude": -36.95065, "altitude": 417.87, "velocity": 27577.23, "visibility": "eclipsed", "timezone_id": "Etc/GMT+2", "timestamp": "2025-09-25 23:12:00", "utc_offset": "-02:00", "country_code": null}
