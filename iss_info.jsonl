@@ -56,3 +56,4 @@
 {"latitude": -27.09055, "longitude": -25.88333, "altitude": 425.25, "velocity": 27558.57, "visibility": "eclipsed", "timezone_id": "Etc/GMT+2", "timestamp": "2025-09-27 23:18:57", "utc_offset": "-02:00", "country_code": null}
 {"latitude": 9.92, "longitude": 133.65382, "altitude": 419.06, "velocity": 27580.81, "visibility": "daylight", "timezone_id": "Etc/GMT-9", "timestamp": "2025-09-29 10:13:51", "utc_offset": "+09:00", "country_code": null}
 {"latitude": -8.76391, "longitude": -52.99175, "altitude": 419.63, "velocity": 27578.08, "visibility": "eclipsed", "timezone_id": "America/Santarem", "timestamp": "2025-09-29 22:12:56", "utc_offset": "-03:00", "country_code": "BR"}
+{"latitude": 30.78836, "longitude": 140.27121, "altitude": 420.19, "velocity": 27586.89, "visibility": "daylight", "timezone_id": "Etc/GMT-9", "timestamp": "2025-10-01 10:20:02", "utc_offset": "+09:00", "country_code": null}
