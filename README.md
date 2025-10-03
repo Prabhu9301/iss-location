@@ -8,7 +8,7 @@ Automated collection of real-time data from the International Space Station (ISS
 ## Workflow  
 
 1. **Scheduled Data Collection**:  
-   - Runs daily at **00:00 UTC** using GitHub Actions.  
+   - ~~Runs daily at **00:00 UTC** using GitHub Actions.~~ **Halted Temporarily**
    - Fetches real-time ISS data from the [Where The ISS At? API](https://api.wheretheiss.at/v1/satellites/25544).  
 
 2. **Data Storage**:  
